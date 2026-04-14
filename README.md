@@ -1,6 +1,9 @@
-# SIEM-Threat-Detection-Lab
-Project Overview
-This project demonstrates a telemetry pipeline used to detect credential abuse and privilege escalation.
-Technologies Used* SIEM: Splunk, Wazuh * Endpoint Telemetry: Sysmon, Windows Event Logs (IDs 4624, 4670, 4688) * Traffic Analysis: Wireshark * Attack Simulation: Nmap, Credential Spraying Key Accomplishments* Developed custom correlation rules that reduced false positives by ~35%.
-* Mapped all detections to MITRE ATT&CK techniques T1110 and T1055.
-* Produced Tier 1 SOC-style structured reports for every detected incident.
+# SIEM-Documentation
+
+16 Technical Incident Reports & Summaries: These files demonstrate your ability to execute the full lifecycle of a Tier 1 SOC Analyst workflow, from initial alert triage to final remediation. They cover a wide range of critical defensive competencies, including:
+
+Threat Detection & Analysis: Reports on investigating suspicious file hashes, analyzing network protocols, and identifying attack vectors like malicious USB drives.
+
+Security Framework Application: Documentation showing how you used the NIST Cybersecurity Framework (CSF) to respond to incidents and the PASTA methodology for threat modeling.
+
+Compliance & Risk Management: Assessments of asset classification, risk scoring based on likelihood and severity, and strategies for improving AAA (Authentication, Authorization, and Accounting) for small businesses.
